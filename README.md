@@ -1,12 +1,12 @@
 # Ghost
 
-Stack:
+Software Used:
 
 - JavaScript
 - React-Native (IOS)
 - React-Native Audio Player Recorder
+- Google Maps API
 - XCode
-- HTTP
 - Node.js
 - Express
 - PostgreSQL
