@@ -1,7 +1,16 @@
 # Ghost
 ### Hannah, Ryan, Michael
 
-Software Used:
+## Project Description
+
+A mobile app that uses audio clips and coordinates as a medium for artistic creations. By geotagging an audio clip, users can partake in each other's experiences by hearing the authors thoughts while physically standing where the clip was recorded.
+
+Overtime, this app will create a community and platform for artist who want to explore audio. 
+
+Potential uses:
+Spoken word, poetry, songs, daily quotes, scavenger hunts, travel blog, audio tours, journal entries, guided meditation, soundscapes, historical moments, etc.
+
+## Software Used:
 
 - JavaScript
 - React-Native (IOS)
@@ -12,13 +21,6 @@ Software Used:
 - Express
 - PostgreSQL
 - Authentication & authorization
-
-## Project Description
-
-A mobile app that provides a community and platform for artist who want to explore audio landscapes. Audio clips are tagged with a geolocation and are only accessible when the user is at that location. This allows the user to stand in the same place as the author while listening to the original audio file.
-
-Potential uses:
-Spoken word, poetry, songs, scavenger hunts, audio tours, journal entries, guided meditation, audio landscapes, historical moments, etc.
 
 ## Specs
 - [ ] App is mobile and uses GPS coordinates
